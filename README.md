@@ -25,8 +25,6 @@ FallenArk专属的Discuz主题，没什么好说的呀。
 During theme installation you will have the options to:
 
 * Update theme headers (theme name, description, author, etc.)
-* Select a CSS framework (Bootstrap, Foundation, none)
-* Add Font Awesome
 * Configure Browsersync (path to theme, local development URL)
 
 ## Theme structure
