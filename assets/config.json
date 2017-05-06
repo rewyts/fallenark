@@ -8,8 +8,8 @@
       "./scripts/customizer.js"
     ]
   },
-  "publicPath": "/template/distrap",
-  "devUrl": "http://distrap.local",
+  "publicPath": "/template/fallenark",
+  "devUrl": "http://dlfz.local",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",
   "browsers": [
