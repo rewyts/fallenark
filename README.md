@@ -1,4 +1,4 @@
-# [FallenArk的Disucz主题]
+# FallenArk的Disucz主题
 
 FallenArk专属的Discuz主题，没什么好说的呀。
 
